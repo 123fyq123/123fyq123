@@ -1,5 +1,4 @@
-## Hi there 👋
-
+a student of Hangzhou Dianzi University
 <!--
 **123fyq123/123fyq123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
