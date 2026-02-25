@@ -1,6 +1,7 @@
 a student of Hangzhou Dianzi University
 <!--
 **123fyq123/123fyq123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1160" height="630" alt="image" src="https://github.com/user-attachments/assets/509ccde3-9b70-47a5-bc6b-7259f6d555c9" />
 
 Here are some ideas to get you started:
 
@@ -13,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Uploading image.png…]()
